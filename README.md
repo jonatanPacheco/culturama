@@ -1,0 +1,2 @@
+# culturama
+Página responsiva
